@@ -74,29 +74,79 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `NHPIVAP`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population in 2020 Census
 - `OTHERVAP`: Other race, non-hispanic, voting age population in 2020 Census
 - `2MOREVAP`: Two or more races, non-hispanic, voting age population in 2020 Census
-- `AGR18D`:  Number of votes for 2018 Democratic Commissioner of Agriculture
-- `AGR18R`:  Number of votes for 2018 Republican Commissioner of Agriculture
-- `AGR18R`:  Number of votes for 2018 other party's Commissioner of Agriculture
+- `AGR17R`: Number of votes for 2017 Republican Commissioner of Agriculture candidate
+- `AGR17O`: Number of votes for 2017 other party's Commissioner of Agriculture candidate
+- `AGR18R`: Number of votes for 2018 Republican Commissioner of Agriculture candidate
+- `AGR18O`: Number of votes for 2018 other party's Commissioner of Agriculture candidate
+- `AGR22R`: Number of votes for 2022 Republican Commissioner of Agriculture candidate
+- `AGR22O`: Number of votes for 2022 other party's Commissioner of Agriculture candidate
+- `AJ522D`: Number of votes for 2022 Democratic Associate Justice 5 of the Supreme Court candidate
+- `AJ522R`: Number of votes for 2022 Republican Associate Justice 5 of the Supreme Court candidate
+- `AJ522O`: Number of votes for 2022 other party's Associate Justice 5 of the Supreme Court candidate
+- `AJ622R`: Number of votes for 2022 Republican Associate Justice 6 of the Supreme Court candidate
+- `AJ622O`: Number of votes for 2022 other party's Associate Justice 6 of the Supreme Court candidate
+- `ATG17D`: Number of votes for 2017 Democratic attorney general candidate
+- `ATG17R`: Number of votes for 2017 Republican attorney general candidate
+- `ATG17O`: Number of votes for 2017 other party's attorney general candidate
 - `ATG18D`: Number of votes for 2018 Democratic attorney general candidate
+- `ATG18R`: Number of votes for 2018 Republican attorney general candidate
 - `ATG18O`: Number of votes for 2018 other party's attorney general candidate
-- `AUD18D`: Number of votes for 2018 Democratic Auditor
-- `AUD18O`: Number of votes for 2018 other party's Auditor
-- `AUD18R`: Number of votes for 2018 Republican Auditor
+- `ATG22D`: Number of votes for 2022 Democratic attorney general candidate
+- `ATG22R`: Number of votes for 2022 Republican attorney general candidate
+- `ATG22O`: Number of votes for 2022 other party's attorney general candidate
+- `AUD17D`: Number of votes for 2017 Democratic Auditor candidate
+- `AUD17O`: Number of votes for 2017 other party's Auditor candidate
+- `AUD17R`: Number of votes for 2017 Republican Auditor candidate
+- `AUD18D`: Number of votes for 2018 Democratic Auditor candidate
+- `AUD18O`: Number of votes for 2018 other party's Auditor candidate
+- `AUD18R`: Number of votes for 2018 Republican Auditor candidate
+- `AUD22O`: Number of votes for 2022 other party's Auditor candidate
+- `AUD22R`: Number of votes for 2022 Republican Auditor candidate
+- `CFJ24D`: Number of votes for 2024 Democratic Chief Justice of the Supreme Court candidate
+- `CFJ24R`: Number of votes for 2024 Republican Chief Justice of the Supreme Court candidate
+- `CFJ24O`: Number of votes for 2024 other party's Chief Justice of the Supreme Court candidate
+- `GOV17D`: Number of votes for 2017 Democratic gubernatorial candidate
+- `GOV17R`: Number of votes for 2017 Republican gubernatorial candidate
+- `GOV17O`: Number of votes for 2017 other party's gubernatorial candidate
 - `GOV18D`: Number of votes for 2018 Democratic gubernatorial candidate
 - `GOV18R`: Number of votes for 2018 Republican gubernatorial candidate
 - `GOV18O`: Number of votes for 2018 other party's gubernatorial candidate
-- `PRE16D`: Number of votes for 2016 Democratic President
-- `PRE16R`: Number of votes for 2016 Republican President
-- `PRE16O`: Number of votes for 2016 other party's President
-- `PRE20D`: Number of votes for 2020 Democratic President
-- `PRE20R`: Number of votes for 2020 Republican President
-- `PRE20O`: Number of votes for 2020 other party's President
-- `SOS18D`: Number of votes for 2018 Democratic Secretary of State
-- `SOS18R`: Number of votes for 2018 Republican Secretary of State
-- `SOS18O`: Number of votes for 2018 other party's Secretary of State
-- `TRE18D`: Number of votes for 2018 Democratic Treasurer
-- `TRE18R`: Number of votes for 2018 Republican Treasurer
-- `TRE18O`: Number of votes for 2018 other party's Treasurer
+- `GOV22D`: Number of votes for 2022 Democratic gubernatorial candidate
+- `GOV22R`: Number of votes for 2022 Republican gubernatorial candidate
+- `GOV22O`: Number of votes for 2022 other party's gubernatorial candidate
+- `LTG17D`: Number of votes for 2017 Democratic Lieutenant Governor candidate
+- `LTG17R`: Number of votes for 2017 Republican Lieutenant Governor candidate
+- `LTG17O`: Number of votes for 2017 other party's Lieutenant Governor candidate
+- `LTG18D`: Number of votes for 2018 Democratic Lieutenant Governor candidate
+- `LTG18R`: Number of votes for 2018 Republican Lieutenant Governor candidate
+- `LTG18O`: Number of votes for 2018 other party's Lieutenant Governor candidate
+- `PRE16D`: Number of votes for 2016 Democratic Presidential candidate
+- `PRE16R`: Number of votes for 2016 Republican Presidential candidate
+- `PRE16O`: Number of votes for 2016 other party's Presidential candidate
+- `PRE20D`: Number of votes for 2020 Democratic Presidential candidate
+- `PRE20R`: Number of votes for 2020 Republican Presidential candidate
+- `PRE20O`: Number of votes for 2020 other party's Presidential candidate
+- `PRE24D`: Number of votes for 2024 Democratic Presidential candidate
+- `PRE24R`: Number of votes for 2024 Republican Presidential candidate
+- `PRE24O`: Number of votes for 2024 other party's Presidential candidate
+- `PSC16R`: Number of votes for 2016 Republican President, Public Service Commission candidate
+- `PSC16O`: Number of votes for 2016 other party's President, Public Service Commission candidate
+- `PSC17D`: Number of votes for 2017 Democratic President, Public Service Commission candidate
+- `PSC17R`: Number of votes for 2017 Republican President, Public Service Commission candidate
+- `PSC17O`: Number of votes for 2017 other party's President, Public Service Commission candidate
+- `PSC18D`: Number of votes for 2018 Democratic President, Public Service Commission candidate
+- `PSC18R`: Number of votes for 2018 Republican President, Public Service Commission candidate
+- `PSC18O`: Number of votes for 2018 other party's President, Public Service Commission candidate
+- `PSC20D`: Number of votes for 2020 Democratic President, Public Service Commission candidate
+- `PSC20R`: Number of votes for 2020 Republican President, Public Service Commission candidate
+- `PSC20O`: Number of votes for 2020 other party's President, Public Service Commission candidate
+- `SAC17R': Number of votes for 2017 Republican 
+- `SOS18D`: Number of votes for 2018 Democratic Secretary of State candidate
+- `SOS18R`: Number of votes for 2018 Republican Secretary of State candidate
+- `SOS18O`: Number of votes for 2018 other party's Secretary of State candidate
+- `TRE18D`: Number of votes for 2018 Democratic Treasurer candidate
+- `TRE18R`: Number of votes for 2018 Republican Treasurer candidate
+- `TRE18O`: Number of votes for 2018 other party's Treasurer candidate
 - `USS16D`: Number of votes for 2016 Democratic senate candidate
 - `USS16R`: Number of votes for 2016 Republican senate candidate
 - `USS16O`: Number of votes for 2016 other party's senate candidate
